@@ -35212,7 +35212,7 @@ ciqual_food_code:en:23585
 ciqual_food_name:en:Chocolate cake
 
 <en:Chocolate cakes
-en:Chocolate cake with melting centre
+en:Chocolate cake with melting centre, Molten chocolate cake, Chocolate lava cake, Lava cake
 fr:Moelleux au chocolat
 nl:Chococakes met chocoladevulling
 agribalyse_food_code:en:39234
@@ -35226,6 +35226,7 @@ wikidata:en:Q56315370
 
 <en:Chocolate cakes
 fr:Blondies, Brownies au chocolat blanc, Blondie, Brownie au chocolat blanc
+ja:ブロンディ
 wikidata:en:Q1709220
 
 <en:Chocolate cakes
