@@ -26549,18 +26549,22 @@ sv: Aminosyror
 tr: Amino asitler
 uk: Амінокислоти
 zh: 氨基酸
+nova:en: 4
 
 en: Nucleic acids
 it: Acidi nucleici
 ja: 核酸
+nova:en: 4
 
 en: Organic acids
 it: Acidi organici
 ja: 有機酸
+nova:en: 4
 
 en: Inorganic salts
 it: Sali inorganici
 ja: 無機塩
+nova:en: 4
 
 
 
