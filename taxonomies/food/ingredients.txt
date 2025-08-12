@@ -39921,7 +39921,7 @@ sv: cashewäpplen
 
 < en:citrus fruit
 < en:fruit
-en: Citrus unshiu
+en: Citrus unshiu, Satsuma, Mikan
 ar: برتقال ساتسوما
 bg: Сацума
 ca: Citrus unshiu
@@ -39932,7 +39932,8 @@ es: Citrus unshiu
 fr: Mandarine satsuma
 hr: citrus unshiu
 it: Citrus unshiu
-ja: ウンシュウミカン, うんしゅうみかん
+# In modern times, 「みかん」 usually refers to this variety: https://ja.wikipedia.org/w/index.php?title=%E3%82%A6%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%A6%E3%83%9F%E3%82%AB%E3%83%B3&oldid=104415908
+ja: ウンシュウミカン, うんしゅうみかん, みかん, 蜜柑
 ko: 온주귤
 nl: Satsuma
 pl: Mandarynka Satsuma
@@ -43281,7 +43282,7 @@ fi: kookoskerma
 fr: crème de noix de coco, crème de coco
 hr: vrhnje od kokosa
 it: Crema di noce di cocco
-ja: ココナッツクリーム
+ja: ココナッツクリーム, ナタデココ
 nl: kokoscreme
 pl: śmietanka kokosowa, śmietanki kokosowej, krem kokosowy
 pt: Creme de coco
@@ -45322,7 +45323,7 @@ hr: ananas, ananasi, ananasa
 hu: ananász
 io: Ananaso
 it: ananas
-ja: パイナップル
+ja: パイナップル, パイン
 kg: Nanasi
 la: Ananas comosus
 lo: ໝາກນັດ
@@ -69342,6 +69343,15 @@ zh: 旋果蚊草子
 wikidata:en: Q147176
 wikipedia:en: https://en.wikipedia.org/wiki/Filipendula_ulmaria
 # fr:reine-des-prés has 37 products in 1 language @2018-10-15
+
+
+< en:plant
+xx: Myrica rubra, Morella rubra
+ja: ヤマモモ, 山桃
+zh: 楊梅, 楊梅
+wikidata:en: Q311617
+wikidate:en: https://en.wikipedia.org/wiki/Myrica_rubra
+
 
 
 # description:en:The olive, known by the botanical name Olea europaea, is a species of small tree in the family Oleaceae

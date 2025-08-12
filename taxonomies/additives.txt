@@ -3213,6 +3213,10 @@ vegan:en: yes
 vegetarian:en: yes
 wikidata:en: Q27145212
 
+en: Gardenia color
+ja: クチナシ色素
+
+< en: Gardenia color
 en: E164, saffron, Gardenia Yellow
 xx: E164
 af: E164, saffraan
@@ -3302,6 +3306,7 @@ vegetarian:en: yes
 wikidata:en: Q25434
 wikipedia:en: https://en.wikipedia.org/wiki/Saffron
 
+< en: Gardenia color
 en: E165, Gardenia Blue
 xx: E165
 bg: E165, Гардения синя
